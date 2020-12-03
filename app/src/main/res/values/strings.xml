@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SwitchPic</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="connect_accounts">Connect Accounts</string>
+    <string name="facebook_app_id">2540803336210117</string>
+    <string name="fb_login_protocol_scheme">fb2540803336210117</string>
+    <string name="browse">Browse...</string>
+    <string name="change_profile_pictures">Change Profile Pictures</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="set_profile_picture">Set Profile Picture</string>
+    <string name="facebook">Facebook</string>
+</resources>
